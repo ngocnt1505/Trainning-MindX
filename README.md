@@ -5,7 +5,9 @@ Two small command-line tools, built test-first (TDD) for the AI Training course:
 - **`tickets`** (Week 2): create, list, show and update tickets stored in a local JSON file.
 - **`kb`** (Week 3): search, list, read and add documents in a Knowledge Base, either an in-memory mock or a KB API server over HTTP. See [Knowledge Base CLI](#knowledge-base-cli-kb).
 
-Nguyễn Thúy Ngọc · AI Training, Weeks 2–3
+Week 4 (ticket handling in Odoo Helpdesk, no code) is documented in [docs3/README.md](docs3/README.md).
+
+Nguyễn Thúy Ngọc · AI Training, Weeks 2–4
 
 ```console
 $ tickets create --title "Fix login" --priority high --tags "bug,auth"
@@ -379,6 +381,9 @@ src/kb/server.ts, startServer.ts reference KB API server (node:http) and its sta
 src/kb/errors.ts                KB error classes, each with a stable `code`
 test/kb/                        kb tests (see above)
 docs2/                          Week 3 brief, decisions, development log, test results
+
+week-4/                         Week 4 brief: overview, tasks, architecture, scenarios 01-06
+docs3/                          Week 4 submission: one file per scenario, Odoo ticket records (PDF), export
 ```
 
 Dependencies go one way. For `tickets`: commands → services → models; only `bin/tickets.js` and `src/storage/` touch the outside world. For `kb`: cli → `KBClient` ← mock / HTTP client; only `main.ts`, `environment.ts` and `startServer.ts` touch the outside world.
@@ -395,6 +400,8 @@ Dependencies go one way. For `tickets`: commands → services → models; only `
 | [docs2/DECISIONS.md](docs2/DECISIONS.md) | Week 3 design decisions: data model, search/list/add rules, API contract, environment variables, exit codes |
 | [docs2/TEST-RESULTS.md](docs2/TEST-RESULTS.md) | Week 3 test results, mutation checks, real runs, and the acceptance-criteria check |
 | [docs2/history.md](docs2/history.md) | Week 3 step-by-step development log (Vietnamese) |
+| [week-4/overview.md](week-4/overview.md), [tasks.md](week-4/tasks.md), [architecture.md](week-4/architecture.md), [scenarios/](week-4/scenarios/) | Week 4 assignment (ticket handling and professional communication) |
+| [docs3/README.md](docs3/README.md) | Week 4 submission (Vietnamese): 6 scenarios with classification, Odoo timeline, email drafts and reflection |
 | [Week 1 report](https://github.com/ngocnt1505/ai-training-week1/blob/main/Report.md) | Week 1 research report on TDD (Vietnamese), kept in the [Week 1 repository](https://github.com/ngocnt1505/ai-training-week1); the docs refer to it as "Report §…" |
 
 The git history shows the TDD cycle: each `test(…)` commit with a failing test comes before the `feat(…)` commit that makes it pass, followed by `refactor(…)` commits where needed.
