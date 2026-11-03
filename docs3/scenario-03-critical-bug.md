@@ -79,7 +79,7 @@ tình hình cho chị trước 10:45 ạ.
 ### 6.2 ACK cho CXO (10:32)
 
 ```
-Subject: RE: KHẨN CẤP - Không nộp được bài trên hệ thống - EXPEDITE Ticket #8
+Subject: RE: KHẨN CẤP - Không nộp được bài trên hệ thống - Ticket #8
 
 Chào chị Ngọc A,
 
@@ -172,7 +172,7 @@ MindX Support Team
 ### 6.6 Cập nhật CXO (10:45)
 
 ```
-Subject: RE: KHẨN CẤP - Không nộp được bài trên hệ thống - EXPEDITE Ticket #8 - Cập nhật #1
+Subject: RE: KHẨN CẤP - Không nộp được bài trên hệ thống - Ticket #8 - Cập nhật #1
 
 Chào chị Ngọc A,
 
@@ -193,7 +193,7 @@ Ticket #8
 ### 6.7 Cập nhật #2 (11:00 — gửi Manager + CXO)
 
 ```
-Subject: [EXPEDITE] Sự cố hệ thống nộp bài thi - Cập nhật #2 - Ticket #8
+Subject: Sự cố hệ thống nộp bài thi - Cập nhật #2 - Ticket #8
 
 Chào chị,
 
@@ -213,7 +213,7 @@ Ticket #8
 ### 6.8 Thông báo đã khôi phục (11:15 — gửi Manager + CXO, sau khi tự xác minh)
 
 ```
-Subject: [EXPEDITE] Hệ thống nộp bài thi đã hoạt động lại - Ticket #8
+Subject: Hệ thống nộp bài thi đã hoạt động lại - Ticket #8
 
 Chào chị,
 
@@ -237,7 +237,7 @@ Ticket #8
 ### 6.9 Hoàn tất & đóng ticket (11:50)
 
 ```
-Subject: [EXPEDITE] Sự cố hệ thống nộp bài thi - Hoàn tất - Ticket #8
+Subject: Sự cố hệ thống nộp bài thi - Hoàn tất - Ticket #8
 
 Chào chị,
 

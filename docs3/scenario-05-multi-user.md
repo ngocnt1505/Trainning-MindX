@@ -17,11 +17,13 @@
 
 ## 2. Ticket Odoo — gom nhóm
 
-| Ticket       | Người báo                       | Nhận lúc | Vai trò                          | Giai đoạn cuối |
-| ------------ | ------------------------------- | -------- | -------------------------------- | -------------- |
-| **#10** | CXO lớp JS-ADV-HN-2412          | 19:45    | **Ticket chính**                 | Đã xử lý       |
-| #11      | Học viên Trần Minh Khoa (mobile) | 19:52   | Duplicate → liên kết ticket chính | Đã hủy        |
-| #12      | GV Phạm Thu Trang               | 20:02    | Duplicate → liên kết ticket chính | Đã hủy        |
+| Ticket       | Người báo                       | Nhận lúc | ACK lúc | Vai trò                          | Giai đoạn cuối |
+| ------------ | ------------------------------- | -------- | ------- | -------------------------------- | -------------- |
+| **#10** | CXO lớp JS-ADV-HN-2412          | 19:45    | 19:50   | **Ticket chính**                 | Đã xử lý       |
+| #11      | Học viên Trần Minh Khoa (mobile) | 19:52   | 19:58   | Duplicate → liên kết ticket chính | Đã hủy        |
+| #12      | GV Phạm Thu Trang               | 20:02    | 20:10 (cập nhật chung) | Duplicate → liên kết ticket chính | Đã hủy        |
+
+Mỗi người báo nhận ACK riêng ngay khi ticket của họ đến (≤ 8 phút), **không chờ gom đủ ticket rồi mới phản hồi**. Khi đã nhận diện pattern (20:03), mọi cập nhật tiếp theo gửi chung trên ticket chính.
 
 - Link ticket chính: https://choi.odoo.com/odoo/helpdesk/1/tickets/10 (phụ: .../tickets/11, .../tickets/12)
 - Tiêu đề ticket chính: `Video playback issue - Lesson 3 (JS-ADV-HN-2412) - 12 users`
@@ -33,7 +35,7 @@
 > Odoo trial: liên kết bằng ghi chú "Duplicate of #…" / "Related: #…" + thẻ `duplicate`, sau đó chuyển ticket phụ sang Đã hủy. Mọi cập nhật chỉ trao đổi trên ticket chính để thông tin đồng bộ.
 
 - Bản ghi ticket chính: [images/s05-main.pdf](images/s05-main.pdf)
-- Bản ghi ticket phụ: [images/s05-duplicates.pdf](images/s05-duplicates.pdf) _(bổ sung sau)_
+- Bản ghi ticket phụ: [images/s05-duplicates.pdf](images/s05-duplicates.pdf) (#11, #12). Hạn chế: 2 ticket phụ chưa điền *Phân công cho* và để 0 sao; vì đã gộp vào #10 (2 sao, đã phân công) và chuyển *Đã hủy*, phần xử lý chỉ diễn ra trên ticket chính.
 
 ### Email của 2 ticket phụ (giả lập)
 
@@ -57,18 +59,63 @@ chạy, cả máy tính và điện thoại. Team kiểm tra giúp mình nhé.
 GV Phạm Thu Trang
 ```
 
-## 3. Phản hồi ban đầu — ACK chung (20:10)
+## 3. Phản hồi ban đầu
 
-Gửi trên ticket chính, CC GV Trang và học viên Khoa (người báo ở 2 ticket phụ).
+Các bước 19:45–20:10 dưới đây giống nhau cho cả 3 branch A/B/C.
+
+### 3.1 ACK người báo đầu tiên — CXO (19:50, ticket #10)
 
 ```
-Subject: RE: Không xem được video bài 3 - Advanced JS trên Denise - PRIORITY Ticket #10
+Subject: RE: Không xem được video bài 3 - Advanced JS trên Denise - Ticket #10
+
+Chào anh/chị,
+
+Team Support đã nhận được phản ánh video Lesson 3 khoá Advanced JavaScript (lớp
+JS-ADV-HN-2412) không phát được. Vì nhiều học viên đang bị ảnh hưởng, ticket đã
+được xếp mức ưu tiên cao và team đang kiểm tra ngay.
+
+Team sẽ cập nhật cho anh/chị trước 20:10.
+
+Trong lúc chờ, học viên có thể thử mở bài học bằng cửa sổ ẩn danh (Incognito)
+hoặc học tiếp bằng slide/PDF của Lesson 3 trên Denise.
+
+Trân trọng,
+Nguyễn Thùy Ngọc
+MindX Support Team
+Ticket #10
+```
+
+### 3.2 ACK ticket phụ #11 — học viên Khoa (19:58)
+
+```
+Subject: RE: Video bài 3 không xem được - Ticket #11
+
+Chào Khoa,
+
+Team Support đã nhận được phản ánh của em. Lỗi video Lesson 3 của lớp
+JS-ADV-HN-2412 cũng đang được các bạn khác báo, nên team đã gộp phản ánh của em
+vào Ticket #10 để xử lý chung. Em sẽ nhận các cập nhật tiếp theo qua email của
+Ticket #10, lần tiếp theo trước 20:10.
+
+Trong lúc chờ, em có thể học tiếp bằng slide/PDF của Lesson 3 trên Denise.
+
+Trân trọng,
+Nguyễn Thùy Ngọc
+MindX Support Team
+```
+
+### 3.3 Cập nhật chung sau khi gom nhóm (20:10)
+
+Gửi trên ticket chính, CC GV Trang (#12, nhận lúc 20:02, email này cũng là ACK cho cô) và học viên Khoa (#11).
+
+```
+Subject: RE: Không xem được video bài 3 - Advanced JS trên Denise - Ticket #10
 
 Chào anh/chị,
 
 Team Support đã nhận được 3 phản ánh về việc video Lesson 3 khoá Advanced
 JavaScript (lớp JS-ADV-HN-2412) không phát được, ảnh hưởng khoảng 12 học viên.
-Các phản ánh đã được gộp vào Ticket #10 và đang được xử lý ở mức PRIORITY.
+Các phản ánh đã được gộp vào Ticket #10 và đang được xử lý ở mức ưu tiên cao.
 Team sẽ cập nhật tình hình qua email này trước 20:30.
 
 Để team xử lý nhanh hơn, anh/chị giúp team gửi thêm (nếu có):
@@ -116,9 +163,12 @@ Quy tắc: **chọn branch dựa trên dấu hiệu quan sát được, không p
 
 | Giờ   | Bước              | Hành động                                                               |
 | ----- | ----------------- | ----------------------------------------------------------------------- |
-| 19:45 | 1. Reception      | Nhận ticket #1 từ CXO                                                   |
-| 20:03 | 1. Reception      | Nhận đủ 3 ticket cùng lỗi → nhận diện pattern, chọn ticket chính, liên kết + huỷ 2 ticket phụ |
-| 20:10 | 2. Response       | Gửi ACK chung, xin 3 thông tin, đưa workaround                          |
+| 19:45 | 1. Reception      | Nhận ticket #10 từ CXO, phân loại Priority                              |
+| 19:50 | 2. Response       | ACK CXO, hẹn cập nhật trước 20:10 (3.1)                                 |
+| 19:52 | 1. Reception      | Nhận #11 từ HV Khoa → cùng lỗi, ghi chú Duplicate of #10                |
+| 19:58 | 2. Response       | ACK HV Khoa, báo đã gộp vào #10 (3.2)                                   |
+| 20:03 | 1. Reception      | Nhận #12 (20:02) → 3 ticket cùng lỗi, nhận diện pattern; liên kết + huỷ 2 ticket phụ |
+| 20:10 | 5. Communication  | Cập nhật chung cho cả 3 người báo (ACK cho GV Trang), xin 3 thông tin, đưa workaround (3.3) |
 | 20:18 | 3. Diagnosis      | Kiểm tra: chỉ Lesson 3 lỗi, 403 cho `VID-JSADV-L03`, signed URL hết hạn 19:38 → Branch A |
 | 20:20 | 3. Diagnosis      | Escalate Content Ops / Dev kèm đầy đủ ID; chuyển Escalated               |
 | 20:25 | 5. Communication  | Cập nhật CXO + GV: đã xác định lỗi ở file video, workaround PDF / chuyển bài |
@@ -149,7 +199,7 @@ Support sẽ cập nhật lớp trước 20:30 và verify lại sau khi fix
 ### Email cập nhật (20:25)
 
 ```
-Subject: RE: ... - PRIORITY Ticket #10 - Cập nhật
+Subject: RE: ... - Ticket #10 - Cập nhật
 
 Chào anh/chị,
 
@@ -171,7 +221,7 @@ Ticket #10
 ### Email đã xử lý (20:55)
 
 ```
-Subject: RE: ... - PRIORITY Ticket #10 - Đã xử lý
+Subject: RE: ... - Ticket #10 - Đã xử lý
 
 Chào anh/chị,
 
@@ -191,7 +241,7 @@ Ticket #10
 ### Email follow-up & đóng ticket (21:15)
 
 ```
-Subject: RE: ... - PRIORITY Ticket #10 - Hoàn tất
+Subject: RE: ... - Ticket #10 - Hoàn tất
 
 Chào anh/chị,
 
@@ -212,8 +262,11 @@ Ticket #10
 ### Update trong Odoo (có timestamp)
 
 ```
-[20:03] RECEPTION – 3 ticket cùng lỗi trong 20 phút → gộp vào ticket chính. Related: #11, #12. CoS Priority (12 HV).
-[20:10] RESPONSE – ACK chung, xin 3 thông tin, workaround Incognito / PDF.
+[19:45] RECEPTION – CXO báo video Lesson 3 JS-ADV-HN-2412 không phát, ~12 HV. CoS Priority.
+[19:50] RESPONSE – ACK CXO, hẹn cập nhật trước 20:10, workaround Incognito / PDF.
+[19:58] RESPONSE – #11 (HV Khoa, 19:52) cùng lỗi → đã ACK, báo gộp vào #10.
+[20:03] RECEPTION – #12 (GV Trang, 20:02) → 3 ticket cùng lỗi trong 20 phút, gộp vào ticket chính. Related: #11, #12.
+[20:10] COMMUNICATION – Cập nhật chung cho 3 người báo, xin 3 thông tin, workaround Incognito / PDF.
 [20:18] DIAGNOSIS – Chỉ Lesson 3 lỗi, API 403 cho VID-JSADV-L03, signed URL hết hạn 19:38, lỗi mọi mạng/thiết bị → Branch A.
 [20:20] ESCALATION – Content Ops / Dev kèm lessonId, videoAssetId, requestId, user mẫu.
 [20:25] COMMUNICATION – Cập nhật lớp + workaround.
@@ -240,7 +293,7 @@ Ticket #10
 | Giờ   | Bước              | Hành động                                                                  |
 | ----- | ----------------- | -------------------------------------------------------------------------- |
 | 20:03 | 1. Reception      | Gộp 3 ticket vào ticket chính                                              |
-| 20:10 | 2. Response       | ACK chung                                                                  |
+| 20:10 | 5. Communication  | Cập nhật chung (sau ACK riêng 19:50 / 19:58)                               |
 | 20:15 | 3. Diagnosis      | Monitoring: nhiều khoá lỗi, CDN 502/504 spike → Branch B; nâng Expedite    |
 | 20:16 | 3. Diagnosis      | Escalate DevOps/Infra ngay; báo Manager vận hành                            |
 | 20:20 | 5. Communication  | **Broadcast** tới các CXO/GV đang có lớp tối nay: sự cố video diện rộng + workaround |
@@ -336,7 +389,7 @@ Ticket #10
 | Giờ   | Bước              | Hành động                                                         |
 | ----- | ----------------- | ----------------------------------------------------------------- |
 | 20:03 | 1. Reception      | Gộp 3 ticket vào ticket chính                                     |
-| 20:10 | 2. Response       | ACK chung + workaround Incognito                                  |
+| 20:10 | 5. Communication  | Cập nhật chung + workaround Incognito (sau ACK riêng 19:50 / 19:58) |
 | 20:20 | 3. Diagnosis      | Monitoring sạch; HV phản hồi Incognito xem được; nhóm lỗi dùng cùng adblock → Branch C |
 | 20:25 | 4. Resolution     | Gửi hướng dẫn xử lý phía người dùng                               |
 | 20:40 | 4. Resolution     | Verify với 2 user mẫu sau khi làm theo hướng dẫn: OK              |
@@ -347,7 +400,7 @@ Ticket #10
 ### Email hướng dẫn phía người dùng (20:25)
 
 ```
-Subject: RE: ... - PRIORITY Ticket #10 - Hướng dẫn xử lý
+Subject: RE: ... - Ticket #10 - Hướng dẫn xử lý
 
 Chào anh/chị,
 
@@ -373,7 +426,7 @@ Ticket #10
 ### Email xác nhận & đóng (21:00)
 
 ```
-Subject: RE: ... - PRIORITY Ticket #10 - Hoàn tất
+Subject: RE: ... - Ticket #10 - Hoàn tất
 
 Chào anh/chị,
 
@@ -403,6 +456,6 @@ Ticket #10
 
 ## 8. Reflection
 
-- Làm tốt: nhận ra pattern sau 3 ticket trong 20 phút và gộp về 1 ticket chính để mọi người nhận cùng một thông tin; ACK xin đúng 3 thông tin tối thiểu, tránh hỏi qua hỏi lại.
+- Làm tốt: ACK từng người báo ngay khi ticket đến, không chờ gom đủ; nhận ra pattern sau 3 ticket trong 20 phút và gộp về 1 ticket chính để mọi người nhận cùng một thông tin; email cập nhật xin đúng 3 thông tin tối thiểu, tránh hỏi qua hỏi lại.
 - Khó: chọn branch chỉ dựa trên dấu hiệu (mã lỗi, phạm vi lesson/khoá, Incognito) thay vì đoán theo mô tả "loading mãi" của người dùng.
 - Lần sau: luôn kiểm tra 1 lesson khác + 1 khoá khác ngay từ đầu — đây là phép thử nhanh nhất để phân biệt Branch A / B / C.

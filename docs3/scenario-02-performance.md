@@ -63,13 +63,13 @@ Nguyên tắc: điều tra trước (10 phút), escalate **có dữ liệu** —
 ### 5.1 ACK (14:25)
 
 ```
-Subject: RE: Khẩn cấp - Lớp học đang gặp tình trạng chậm nghiêm trọng - PRIORITY Ticket #7
+Subject: RE: Khẩn cấp - Lớp học đang gặp tình trạng chậm nghiêm trọng - Ticket #7
 
 Chào chị Hà,
 
 Team Support đã ghi nhận tình trạng 15 học viên lớp WEB101-HN-2024 tải trang LMS
 rất chậm và không nộp được bài trong lúc lớp đang diễn ra. Ticket đã được xếp mức
-PRIORITY và team đang kiểm tra hệ thống ngay.
+ưu tiên cao và team đang kiểm tra hệ thống ngay.
 
 Team sẽ cập nhật kết quả kiểm tra cho chị trước 14:40.
 
@@ -115,7 +115,7 @@ Timeline: Support cập nhật CXO mỗi 15 phút, nhờ team báo tiến độ 
 ### 5.3 Cập nhật điều tra (14:40)
 
 ```
-Subject: RE: Khẩn cấp - Lớp học đang gặp tình trạng chậm - PRIORITY Ticket #7 - Cập nhật
+Subject: RE: Khẩn cấp - Lớp học đang gặp tình trạng chậm - Ticket #7 - Cập nhật
 
 Chào chị Hà,
 
@@ -141,7 +141,7 @@ Ticket #7
 ### 5.4 Cập nhật tiến độ (14:55)
 
 ```
-Subject: RE: ... - PRIORITY Ticket #7 - Cập nhật 2
+Subject: RE: ... - Ticket #7 - Cập nhật 2
 
 Chào chị Hà,
 
@@ -159,7 +159,7 @@ Ticket #7
 ### 5.5 Đã xử lý — nhờ xác nhận (15:15)
 
 ```
-Subject: RE: ... - PRIORITY Ticket #7 - Đã xử lý
+Subject: RE: ... - Ticket #7 - Đã xử lý
 
 Chào chị Hà,
 
@@ -181,7 +181,7 @@ Ticket #7
 ### 5.6 Follow-up & đóng ticket (15:45)
 
 ```
-Subject: RE: ... - PRIORITY Ticket #7 - Hoàn tất
+Subject: RE: ... - Ticket #7 - Hoàn tất
 
 Chào chị Hà,
 

@@ -17,30 +17,30 @@
 - Link: https://choi.odoo.com/odoo/helpdesk/1/tickets/9
 - Tiêu đề: `Feature request - Weekly auto PDF progress report emailed to parents`
 - Thẻ: `cos-standard`, `type-feature-request`, `product`, `report`, `parents`
-- Mức ưu tiên: 0 sao (Low)
+- Mức ưu tiên: 1 sao (Standard)
 - Khách hàng: CXO Cơ sở Nguyễn Chí Thanh — `cxo.nct@example.com` (email giả lập)
 - Phân công: Nguyễn Thùy Ngọc
 - Tham chiếu Product backlog: `PRD-REQ-0142` (giả định)
 
-- Bản ghi đầy đủ (form + chatter): [images/s04-full.pdf](images/s04-full.pdf) _(bổ sung sau)_
+- Bản ghi đầy đủ (form + chatter): [images/s04-full.pdf](images/s04-full.pdf)
 
 ## 3. Timeline
 
 | Thời điểm      | Bước (7-step)     | Hành động                                                                 | Ghi chú / Quyết định                          |
 | -------------- | ----------------- | ------------------------------------------------------------------------- | --------------------------------------------- |
-| Ngày 1 – 13:00 | —                 | Nhận email đề xuất từ CXO Cơ sở Nguyễn Chí Thanh                           |                                               |
-| Ngày 1 – 13:10 | 1. Reception      | Tạo ticket, phân loại Feature Request / Standard                           | Không phải lỗi → chủ quản là Product          |
-| Ngày 1 – 13:25 | 2. Response       | Gửi ACK: cảm ơn, giải thích quy trình, không hứa timeline, gợi ý workaround | Trong mục tiêu < 30 phút                      |
-| Ngày 1 – 13:40 | 3. Diagnosis      | Kiểm tra LMS hiện có: đã có export báo cáo tiến độ lớp (Excel), chưa có PDF tự động gửi phụ huynh | Xác nhận ngoài scope hiện tại |
-| Ngày 1 – 13:45 | 4. Resolution     | Chuyển yêu cầu sang Product kèm ngữ cảnh; chuyển ticket sang Tạm dừng       | Chờ Product đánh giá                          |
-| Ngày 3 – 10:00 | 5. Communication  | Product phản hồi: ghi nhận vào backlog `PRD-REQ-0142`, đánh giá trong kỳ lập kế hoạch tiếp theo; cần lưu ý PII phụ huynh | Chưa có cam kết thời gian |
-| Ngày 3 – 10:15 | 5. Communication  | Gửi email cập nhật trạng thái cho CXO                                      |                                               |
-| Ngày 8 – 09:00 | 6. Follow-up      | Hỏi CXO workaround có dùng được không; CXO xác nhận đang dùng export Excel hàng tuần | Đóng ticket Support, Product tiếp tục theo dõi qua `PRD-REQ-0142` |
-| Ngày 8 – 09:10 | 7. Trend Analysis | Ghi nhận nhu cầu "báo cáo tự động cho phụ huynh" để tổng hợp các yêu cầu tương tự | Đã xử lý                                      |
+| Ngày 1 (03/11) – 13:00 | —                 | Nhận email đề xuất từ CXO Cơ sở Nguyễn Chí Thanh                           |                                               |
+| Ngày 1 (03/11) – 13:10 | 1. Reception      | Tạo ticket, phân loại Feature Request / Standard                           | Không phải lỗi → chủ quản là Product          |
+| Ngày 1 (03/11) – 13:25 | 2. Response       | Gửi ACK: cảm ơn, giải thích quy trình, không hứa timeline, gợi ý workaround; hẹn cập nhật trạng thái trước 12:00 thứ Năm 05/11 | Trong mục tiêu < 30 phút; hẹn mốc cập nhật, không hẹn ngày triển khai |
+| Ngày 1 (03/11) – 13:40 | 3. Diagnosis      | Kiểm tra LMS hiện có: đã có export báo cáo tiến độ lớp (Excel), chưa có PDF tự động gửi phụ huynh | Xác nhận ngoài scope hiện tại |
+| Ngày 1 (03/11) – 13:45 | 4. Resolution     | Chuyển yêu cầu sang Product kèm ngữ cảnh, nhờ phản hồi trước 10:00 05/11; chuyển ticket sang Tạm dừng | Chờ Product đánh giá |
+| Ngày 3 (05/11) – 10:00 | 5. Communication  | Product phản hồi: ghi nhận vào backlog `PRD-REQ-0142`, đánh giá trong kỳ lập kế hoạch ngày 18/11 (giả định); cần lưu ý PII phụ huynh | Chưa có cam kết triển khai |
+| Ngày 3 (05/11) – 10:15 | 5. Communication  | Gửi email cập nhật trạng thái cho CXO; hẹn hỏi lại về workaround thứ Ba 10/11 và cập nhật kết quả kỳ lập kế hoạch trước 17:00 thứ Sáu 20/11 | Đúng mốc đã hẹn trong ACK |
+| Ngày 8 (10/11) – 09:00 | 6. Follow-up      | Hỏi CXO workaround có dùng được không; CXO xác nhận đang dùng export Excel hàng tuần | Đóng ticket Support; mốc 20/11 vẫn giữ, theo dõi qua `PRD-REQ-0142` |
+| Ngày 8 (10/11) – 09:10 | 7. Trend Analysis | Ghi nhận nhu cầu "báo cáo tự động cho phụ huynh" để tổng hợp các yêu cầu tương tự | Đã xử lý                                      |
 
 ## 4. Email / Chat drafts
 
-### 4.1 ACK (Ngày 1 – 13:25)
+### 4.1 ACK (Ngày 1 – 03/11, 13:25)
 
 ```
 Subject: RE: Đề xuất tính năng - Có thể thêm tính năng này không? - Ticket #9
@@ -54,8 +54,10 @@ trọng góp ý từ người dùng LMS lâu năm như anh/chị.
 Đây là đề xuất tính năng mới, nên team Support sẽ chuyển đến team Product để
 xem xét. Team Product đánh giá các đề xuất dựa trên nhu cầu của người dùng, mức
 độ ảnh hưởng và lộ trình phát triển chung của sản phẩm, vì vậy hiện tại team
-chưa thể xác nhận tính năng có được triển khai hay thời điểm triển khai. Team sẽ
-cập nhật cho anh/chị ngay khi có kết quả đánh giá.
+chưa thể xác nhận tính năng có được triển khai hay thời điểm triển khai.
+
+Team sẽ gửi anh/chị cập nhật trạng thái trước 12:00 thứ Năm 05/11, kể cả khi
+team Product chưa có quyết định.
 
 Trong lúc chờ, anh/chị có thể dùng chức năng sẵn có của LMS để tiết kiệm thời gian:
 - Vào lớp học → Báo cáo → "Tiến độ học viên" → Xuất file Excel
@@ -68,7 +70,7 @@ MindX Support Team
 Ticket #9
 ```
 
-### 4.2 Chuyển yêu cầu cho Product (Ngày 1 – 13:45, nội bộ)
+### 4.2 Chuyển yêu cầu cho Product (Ngày 1 – 03/11, 13:45, nội bộ)
 
 ```
 Subject: [Feature Request] Báo cáo tiến độ học viên PDF tự động gửi phụ huynh hàng tuần - Ticket #9
@@ -91,14 +93,15 @@ Lưu ý cần đánh giá:
 - Dữ liệu cá nhân phụ huynh/học viên (PII) khi gửi email tự động
 - Nguồn email phụ huynh (có sẵn trong hệ thống hay chưa)
 
-Nhờ team ghi nhận vào backlog và phản hồi giúp Support kết quả đánh giá để cập
-nhật cho khách hàng. Support đã thông báo khách hàng là chưa có cam kết timeline.
+Nhờ team ghi nhận vào backlog và phản hồi giúp Support trạng thái trước 10:00
+thứ Năm 05/11 (Support đã hẹn cập nhật khách hàng trước 12:00 cùng ngày). Support
+đã thông báo khách hàng là chưa có cam kết timeline.
 
 Cảm ơn team,
 Nguyễn Thùy Ngọc – Support
 ```
 
-### 4.3 Cập nhật trạng thái (Ngày 3 – 10:15)
+### 4.3 Cập nhật trạng thái (Ngày 3 – 05/11, 10:15)
 
 ```
 Subject: RE: Đề xuất tính năng - Cập nhật trạng thái - Ticket #9
@@ -108,10 +111,15 @@ Chào anh/chị,
 Team cập nhật về đề xuất tính năng báo cáo tiến độ PDF gửi phụ huynh:
 
 - Team Product đã ghi nhận đề xuất vào danh sách yêu cầu (mã PRD-REQ-0142).
-- Đề xuất sẽ được xem xét trong kỳ lập kế hoạch sản phẩm tiếp theo, cùng với
-  các yêu cầu tương tự từ các cơ sở khác.
-- Hiện chưa có quyết định triển khai và chưa có thời gian dự kiến. Khi có
-  thay đổi, team sẽ chủ động thông báo cho anh/chị.
+- Đề xuất sẽ được xem xét trong kỳ lập kế hoạch sản phẩm tiếp theo (ngày
+  18/11), cùng với các yêu cầu tương tự từ các cơ sở khác.
+- Hiện chưa có quyết định triển khai và chưa có thời gian dự kiến.
+
+Các mốc tiếp theo:
+- Thứ Ba 10/11: team liên hệ lại để hỏi cách xuất báo cáo Excel có đáp ứng tạm
+  thời nhu cầu của team anh/chị không
+- Trước 17:00 thứ Sáu 20/11: team cập nhật kết quả của kỳ lập kế hoạch, dù đề
+  xuất được chọn hay chưa
 
 Trong thời gian này, anh/chị có cần team hướng dẫn chi tiết cách xuất báo cáo
 tiến độ Excel hàng tuần không ạ?
@@ -122,7 +130,7 @@ MindX Support Team
 Ticket #9
 ```
 
-### 4.4 Follow-up & đóng ticket (Ngày 8 – 09:00)
+### 4.4 Follow-up & đóng ticket (Ngày 8 – 10/11, 09:00)
 
 ```
 Subject: RE: Đề xuất tính năng - Ticket #9 - Follow-up
@@ -130,8 +138,9 @@ Subject: RE: Đề xuất tính năng - Ticket #9 - Follow-up
 Chào anh/chị,
 
 Cảm ơn anh/chị đã phản hồi rằng cách xuất báo cáo tiến độ Excel hàng tuần đang
-giúp được team anh/chị trong thời gian chờ. Team xin phép đóng ticket hỗ trợ này. Đề xuất của anh/chị vẫn được team Product theo dõi với mã
-PRD-REQ-0142, team sẽ thông báo ngay khi có cập nhật.
+giúp được team anh/chị trong thời gian chờ. Team xin phép đóng ticket hỗ trợ
+này. Đề xuất của anh/chị vẫn được team Product theo dõi với mã PRD-REQ-0142, và
+team vẫn giữ hẹn gửi anh/chị kết quả kỳ lập kế hoạch trước 17:00 thứ Sáu 20/11.
 
 Nếu anh/chị có thêm góp ý cho LMS, anh/chị cứ gửi về support@mindx.edu.vn.
 

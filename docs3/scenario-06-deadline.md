@@ -17,7 +17,7 @@
 - Phân công: Nguyễn Thùy Ngọc
 - Deadline cứng: **09:00 thứ Năm 05/11**
 
-- Bản ghi đầy đủ (form + chatter): [images/s06-full.pdf](images/s06-full.pdf) _(bổ sung sau)_
+- Bản ghi đầy đủ (form + chatter): [images/s06-full.pdf](images/s06-full.pdf)
 
 ### Rủi ro ghi nhận khi tiếp nhận
 
@@ -45,19 +45,21 @@
 
 | Tháng   | Cơ sở            | Chương trình   | Khoá học        | Số tuyển sinh (đã đóng phí) |
 | ------- | ---------------- | -------------- | --------------- | --------------------------- |
-| 2026-01 | Nguyễn Chí Thanh | Coding Teen    | Web Basic       | 42                          |
-| 2026-01 | Nguyễn Chí Thanh | Coding Teen    | Python Basic    | 35                          |
+| 2026-01 | Nguyễn Chí Thanh (HN) | Coding Teen | Web Basic    | 42                          |
+| 2026-01 | Nguyễn Chí Thanh (HN) | Coding Teen | Python Basic | 35                          |
 | …       | …                | …              | …               | …                           |
 
 + Sheet tổng hợp: tổng theo cơ sở, tổng theo chương trình, biểu đồ theo tháng.
+
+File báo cáo mô phỏng đã bàn giao (số liệu giả lập, không có PII): [reports/](reports/README.md) — [chi tiết](reports/s06-chi-tiet.csv) · [tổng hợp](reports/s06-tong-hop.csv).
 
 ## 4. Timeline
 
 | Thời điểm      | Bước (7-step)     | Hành động                                                                  | Ghi chú / Quyết định                          |
 | -------------- | ----------------- | -------------------------------------------------------------------------- | --------------------------------------------- |
 | 03/11 – 14:00  | —                 | Nhận email của Director                                                    | Deadline 09:00 05/11                          |
-| 03/11 – 14:08  | 1. Reception      | Triage: Fixed Deadline; mục tiêu chốt MVP                                  | < 10 phút                                     |
-| 03/11 – 14:20  | 1. Reception      | Tạo ticket: deadline, impact, phạm vi dự kiến, rủi ro                      | < 15 phút                                     |
+| 03/11 – 14:05  | 1. Reception      | Triage: Fixed Deadline; mục tiêu chốt MVP                                  | < 5 phút                                      |
+| 03/11 – 14:10  | 1. Reception      | Tạo ticket: deadline, impact, phạm vi dự kiến, rủi ro                      | 10 phút sau khi nhận (< 15 phút)              |
 | 03/11 – 14:30  | 2. Response       | Gửi ACK + 4 câu hỏi chốt scope; chuyển Waiting Customer                    | < 30 phút                                     |
 | 03/11 – 15:30  | 3. Diagnosis      | Director trả lời: 01/01–31/10/2026, không cần danh tính, ưu tiên cơ sở + chương trình, tuyển sinh = đã đóng phí | |
 | 03/11 – 16:00  | 3. Diagnosis      | Đánh giá khả thi; gửi template + scope MVP / nice-to-have + timeline       | Bản nháp 15:00 04/11, bản chốt 17:00 04/11   |
@@ -160,7 +162,7 @@ Dữ liệu cần trích xuất:
 
 Bảo mật:
 - KHÔNG xuất danh tính học viên/phụ huynh, chỉ số liệu tổng hợp
-- File chỉ chia sẻ cho Director qua link nội bộ có phân quyền
+- File chỉ gửi riêng cho Director, không chia sẻ công khai
 
 Cần anh/chị quyết định:
 1. Duyệt trích xuất số liệu tuyển sinh tổng hợp
@@ -206,7 +208,9 @@ Subject: RE: Báo cáo tuyển sinh - Bản nháp để góp ý - Ticket #13
 
 Chào anh/chị,
 
-Team gửi anh/chị bản nháp báo cáo tuyển sinh: [link file nội bộ]
+Team gửi anh/chị bản nháp báo cáo tuyển sinh (sheet Chi tiết):
+Bao_cao_tuyen_sinh_2026-01_den_2026-10_ban-nhap.xlsx
+(bản trong repo: reports/s06-chi-tiet.csv)
 
 Bản nháp đã bao gồm toàn bộ phần chính; số liệu Đà Nẵng tháng 09 đã được bổ
 sung từ admin cơ sở theo phương án A.
@@ -227,8 +231,8 @@ Subject: RE: Báo cáo tuyển sinh - Bản chốt cho cuộc họp 05/11 - Tick
 Chào anh/chị,
 
 Team gửi anh/chị bản chốt báo cáo tuyển sinh cho cuộc họp 09:00 ngày mai:
-- Link: [link file nội bộ – chỉ anh/chị có quyền xem]
-- File đính kèm: Bao_cao_tuyen_sinh_2026-01_den_2026-10.xlsx
+- File đính kèm: Bao_cao_tuyen_sinh_2026-01_den_2026-10.xlsx (sheet Chi tiết + Tổng hợp)
+  (bản trong repo: reports/s06-chi-tiet.csv, reports/s06-tong-hop.csv)
 
 Nội dung: số tuyển sinh theo cơ sở × chương trình × tháng, breakdown theo khoá
 học, sheet tổng hợp có dòng tổng và biểu đồ theo tháng (theo góp ý của anh/chị).
