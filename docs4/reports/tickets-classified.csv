@@ -1,0 +1,119 @@
+﻿id,subject,customer,tags,priority,stage,group
+325,MINDX ĐÀ NẴNG - HỖ TRỢ KIỂM TRA ĐỐI CHIẾU SỐ LƯỢNG ĐỔI QUÀ TRÊN DENISE,Lương Thị Nguyệt Hà,E-learning,High priority,New,Điểm thưởng / Đổi quà
+287,KHÔNG TẠO MÃ QR THANH TOÁN ĐƯỢC,Dương Thị Chúc Linh,CRM; Vấn đề thanh toán,High priority,New,Lead / Thanh toán / Order (CRM)
+296,SỐ LƯỢNG GIỮA 2 HỆ THỐNG ECOUNT VÀ DENISE KHÔNG THỐNG NHẤT ĐỂ HV đổi quà,Thúy Vân,LMS; Điểm thưởng,Low priority,New,Điểm thưởng / Đổi quà
+278,NHỜ KẾ TOÁN HỦY CF GIAO DỊCH 1TR TRÊN LEAD L6X DO ADD 2 LẦN,Dương Thị Thu Huệ,CRM; Xóa payment,Low priority,New,Lead / Thanh toán / Order (CRM)
+249,NHỜ KẾ TOÁN HỦY CONFIRM TRÊN LEAD L0B VÀ CONFIRM LẠI TRÊN LEAD L6B - 84974242997,Dương Thị Thu Huệ,CRM; Xóa payment,Low priority,New,Lead / Thanh toán / Order (CRM)
+308,XIN CẤP LẠI TÀI KHOẢN ECOUNT,Nguyễn Hữu Thình,User responded; Xspace,Urgent,First Response Sent,"Cấp mới / chuyển tài khoản, email"
+288,NHỜ TEAM TECH SỬA LẠI TÊN ĐÚNG TRONG PHẦN ENROLLMENT CỦA HỌC VIÊN,Huỳnh Ngọc Thanh,CRM; Đổi tên HV trong order,Urgent,First Response Sent,Trạng thái / Thông tin học viên
+286,NHỜ TEAM TECH SỬA LẠI TÊN ĐÚNG TRONG PHẦN ENROLLMENT CỦA HỌC VIÊN,Huỳnh Ngọc Thanh,CRM; Đổi tên HV trong order,Urgent,First Response Sent,Trạng thái / Thông tin học viên
+280,BU CẦN HỖ TRỢ FIX LỖI COMPASS HỌC VIÊN DIỄM QUỲNH,MindX Phan Van Tri,Awaiting information; Compass; kiểm tra thông tin lớp học,Urgent,First Response Sent,Trạng thái / Thông tin học viên
+275,CRM lại không gửi được tin nhắn,Võ Thị Hồng Phấn,CRM; User responded; sms,Urgent,First Response Sent,CRM gọi điện / SMS
+129,HỖ TRỢ CẤP LẠI MAIL CONTACT CỦA BU HẢI PHÒNG,Trần Thị Hồng Nhung,Các vấn đề về mail,Urgent,First Response Sent,"Cấp mới / chuyển tài khoản, email"
+104,SỐ LƯỢNG GIỮA 2 HỆ THỐNG ECOUNT VÀ DENISE KHÔNG THỐNG NHẤT ĐỂ HV đổi quà,Thúy Vân,LMS; User responded; Điểm thưởng,Urgent,First Response Sent,Điểm thưởng / Đổi quà
+336,BU PXL I KHÔNG TẠO ĐƯỢC PHIẾU DROPOUT,BU Phan Xích Long,CRM,High priority,First Response Sent,Phiếu Dropout
+335,BU DĨ AN-NHỜ HỖ TRỢ FIX LỖI TẠO PHIẾU DROPOUT CHO HV,Phan Võ Quế An,LMS,High priority,First Response Sent,Phiếu Dropout
+324,[Teaching | K12] Xuất dữ liệu L6 từ CRM,Trần Huy Vũ,CRM; LMS,High priority,First Response Sent,Lead / Thanh toán / Order (CRM)
+315,18+ HCM/ NHỜ TEAM KIỂM TRA LEAD HV Trần Uyên Thi 84906890372,Dương Thị Bảo Trân,LMS; User responded; enroll HV,High priority,First Response Sent,Lead / Thanh toán / Order (CRM)
+302,ADD HỌC VIÊN VÀO LỚP TC-WEB93,Ngô Thị Thu Trang,LMS; User responded; enroll HV,High priority,First Response Sent,Enroll / Xếp lớp học viên
+224,LỖI ENROLL,BU THỦ DẦU MỘT,CRM; LMS; User responded; enroll HV,High priority,First Response Sent,Enroll / Xếp lớp học viên
+222,HỖ TRỢ LINK BÀI TẬP CHO BÉ LỚP GA28,Mindx Phạm Ngũ Lão,Denise; Tài khoản Denise - HV không đăng nhập được,High priority,First Response Sent,Không đăng nhập được / quên mật khẩu / bị khóa
+201,BU DĨ AN-NHỜ HỖ TRỢ ĐIỀU CHỈNH GIỜ HỌC CỦA LỚP DA-ROB-ARMB17 (1:1),MindX Di An,LMS; Điều chỉnh buổi học,High priority,First Response Sent,Enroll / Xếp lớp học viên
+140,Không đổi được trạng thái,Võ Thị Hồng Phấn,CRM; Chuyển trạng thái lead,High priority,First Response Sent,Lead / Thanh toán / Order (CRM)
+294,PNL HỖ TRỢ TÀI KHOẢN DENISE,Mindx Phạm Ngũ Lão,Denise; Tài khoản Denise - HV không đăng nhập được,Low priority,First Response Sent,Không đăng nhập được / quên mật khẩu / bị khóa
+75,Hỗ trợ vấn đề import lead trên CRM,Lê Huyền Cẩm Tú,Bug; CRM; assign lead,Urgent,In Progress,Lead / Thanh toán / Order (CRM)
+60,BU SONG HÀNH NHỜ TEAM TECH CHECK VÀ MỞ GIÚP BU SLOT ENROLL HỌC VIÊN VÀO LỚP,Huỳnh Ngọc Thanh,LMS; enroll HV,Urgent,In Progress,Enroll / Xếp lớp học viên
+153,FIX Oder Chuyển Nhượng,Nguyễn Văn Quốc Khánh,CRM; fix giá,High priority,In Progress,Lead / Thanh toán / Order (CRM)
+158,Fwd: BU QUẢNG NINH | LỖI CRYSTAL,support@mindx-help.freshdesk.com,Bug; LMS,Low priority,In Progress,Đặt phòng (Crystal)
+157,Fwd: Lỗi Khách hàng đã ký hợp đồng nhưng hệ thống không ghi nhận,support@mindx-help.freshdesk.com,Bug; E-contract; Hợp đồng sai thông tin,Low priority,In Progress,Hợp đồng điện tử (E-contract)
+305,Lead kế toán báo không Confirmed được,Nguyễn Quốc Cường,Awaiting information; Bug; Vấn đề thanh toán,Urgent,Resolved,Lead / Thanh toán / Order (CRM)
+295,BU cộng điểm cho HV nhưng điểm tổng vẫn không thay đổi,Thúy Vân,LMS; Điểm thưởng,Urgent,Resolved,Điểm thưởng / Đổi quà
+291,Có điểm danh nhưng bị uncheck,HÀ VŨ THANH HUYỀN,Awaiting information; Bảng công giáo viên,Urgent,Resolved,TMS / Chấm công / Điểm danh
+290,KHÔNG TÌM RA LỚP ĐỂ ADD GV,HÀ VŨ THANH HUYỀN,LMS; kiểm tra thông tin lớp học,Urgent,Resolved,Enroll / Xếp lớp học viên
+284,KHÔNG XÓA ĐƯỢC MAIL ĐÃ ĐIỀN Ở PHẦN FAMILY CỦA CRM HỌC VIÊN,Trần Thị Mai Linh,CRM; Các vấn đề về mail,Urgent,Resolved,Trạng thái / Thông tin học viên
+276,EM CẦN SP CHUYỂN TÀI KHOẢN LMS/CRM TỪ STL SANG CSL Ạ,Hồ Hoàng Tường Vi,CRM; LMS,Urgent,Resolved,"Cấp mới / chuyển tài khoản, email"
+274,KHÔNG THỂ ENROLL HỌC VIÊN,Nguyễn Phạm Như Quỳnh,LMS,Urgent,Resolved,Enroll / Xếp lớp học viên
+269,Lỗi trạng thái học viên,06 Nguyễn Hữu Thọ,LMS,Urgent,Resolved,Trạng thái / Thông tin học viên
+267,KHÔNG THỂ ENROLL HỌC VIÊN,Nguyễn Phạm Như Quỳnh,CRM,Urgent,Resolved,Enroll / Xếp lớp học viên
+260,CRM không bấm gọi được,Võ Thị Hồng Phấn,CRM,Urgent,Resolved,CRM gọi điện / SMS
+254,"số tiền trên hợp đồng hiển thị sai so với thông tin soạn thảo, 19.188.000 là đúng",Đặng Thục Mỹ,CRM; E-contract,Urgent,Resolved,Hợp đồng điện tử (E-contract)
+248,CẤP TÀI KHOẢN NHÂN SỰ I4137,Trần Mai Thi,CRM; LMS,Urgent,Resolved,"Cấp mới / chuyển tài khoản, email"
+247,Chuyển trạng thái đóng tiền của PH thành L6B,Nguyễn Thị Quỳnh,CRM,Urgent,Resolved,Lead / Thanh toán / Order (CRM)
+241,KHÔNG TRUY CẬP VÔ TMS ĐƯỢC,Hoàng Kim,,Urgent,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+239,TMS BỊ LỖI KHÔNG HIỆN THÔNG TIN,Cao Trương Ngân Hà,TMS,Urgent,Resolved,TMS / Chấm công / Điểm danh
+237,CHUYỂN CRM CHO NHÂN SỰ ĐỔI CƠ SỞ,Trần Hồng Ngân,CRM,Urgent,Resolved,"Cấp mới / chuyển tài khoản, email"
+236,TMS mất dữ liệu,Khuất Thị Hà,TMS,Urgent,Resolved,TMS / Chấm công / Điểm danh
+234,[Tỉnh Nam 2] - [LỖI TMS TỪ NGÀY 31. KHÔNG HIỆN THÔNG TIN VÀ THAO TÁC ĐƯỢC TRÊN HỆ THỐNG],Nguyễn Trung Duy,TMS,Urgent,Resolved,TMS / Chấm công / Điểm danh
+232,Hệ thống TMS không hiển thị công,Nguyễn Thị Huệ,TMS,Urgent,Resolved,TMS / Chấm công / Điểm danh
+230,CẤP MAIL OUTLOOK ĐỂ LÀM VIỆC NỘI BỘ,Nguyễn Ngọc Thảo Vy,Các vấn đề về mail,Urgent,Resolved,"Cấp mới / chuyển tài khoản, email"
+228,TMS không hiển thị công cần duyệt để duyệt công trước khi hết tháng,La Thuý Vân,TMS,Urgent,Resolved,TMS / Chấm công / Điểm danh
+226,Lỗi Add payment,Nguyễn Trần Thị Bích Quỳnh,CRM,Urgent,Resolved,Lead / Thanh toán / Order (CRM)
+225,LEAD CRM ĐÃ ADD PATMENT VẪN NẰM Ở L5A,NGUYỄN PHẠM THÙY LINH,,Urgent,Resolved,Lead / Thanh toán / Order (CRM)
+218,KHÔNG THỂ COI CHẤM CÔNG,Nguyễn Phạm Như Quỳnh,,Urgent,Resolved,TMS / Chấm công / Điểm danh
+215,Lỗi TMS I4081 - Lỗi khi yêu cầu bù công,Trương Thị Ngọc Duyên,,Urgent,Resolved,TMS / Chấm công / Điểm danh
+210,hỗ trợ enroll học viên lớp TC-CIJS109,Nguyễn Phương Nga,,Urgent,Resolved,Enroll / Xếp lớp học viên
+209,TK-ROB-SEMII03,Phạm Thị Thanh Trúc,,Urgent,Resolved,Enroll / Xếp lớp học viên
+206,Nhờ team check giúp TMS,CS Bùi Lê Bảo Linh,,Urgent,Resolved,TMS / Chấm công / Điểm danh
+189,SALE,Trần Tú Nhi,,Urgent,Resolved,Lead / Thanh toán / Order (CRM)
+174,CẤP MAIL OUTLOOK ĐỂ LÀM VIỆC NỘI BỘ,Nguyễn Ngọc Thảo Vy,Các vấn đề về mail,Urgent,Resolved,"Cấp mới / chuyển tài khoản, email"
+172,CẤP LẠI MẬT KHẢU MAIL,tramlnp@mindx.com.vn,Các vấn đề về mail,Urgent,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+331,PNL- TÀI KHOẢN ECOUNT KHÔNG VÀO ĐƯỢC,Mindx Phạm Ngũ Lão,Xspace,High priority,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+268,BU Tây Thạnh nhờ Team Tech kiểm tra và xóa bớt 1 học phần của học viên NGUYỄN THƯỜNG TUẤN KHOA-84903611433,Đặng Thị Huyền Trang,LMS,High priority,Resolved,Enroll / Xếp lớp học viên
+255,TÀI KHOẢN LỖI,Mindx Phạm Ngũ Lão,Denise; Tài khoản Denise - HV không đăng nhập được,High priority,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+238,tài khoản TMS không hiển thị công,Hoàng Văn Vũ,TMS,High priority,Resolved,TMS / Chấm công / Điểm danh
+231,Không hiện thông tin trong bảng chấm công,Nguyễn Quang Thành,TMS,High priority,Resolved,TMS / Chấm công / Điểm danh
+227,LỖI TMS,Đoàn Thị Hoa,TMS,High priority,Resolved,TMS / Chấm công / Điểm danh
+220,Tài khoản E Count bị khoá,MindX Bắc Ninh,,High priority,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+219,NHỜ TEAM THÊM GIÚP BU HỌC VIÊN MAI THIÊN PHÚC-84938213066 VÀ HỌC VIÊN ĐINH QUANG PHÚ-84917101090 VÀO LỚP TT-KIND-ROB4A02,Đặng Thị Huyền Trang,,High priority,Resolved,Enroll / Xếp lớp học viên
+211,Không điểm danh được cho giáo viên,Nguyễn Trung,,High priority,Resolved,TMS / Chấm công / Điểm danh
+207,Run lại buổi demo,Phạm Thanh Nhàn,,High priority,Resolved,Enroll / Xếp lớp học viên
+203,"upsale 4 tháng lên 24 tháng, chương trình ưu đãi ngày 29,30/12/2025",Đặng Thục Mỹ,,High priority,Resolved,Lead / Thanh toán / Order (CRM)
+194,Lỗi phần mềm chấm công,Bạch Thùy Trang,,High priority,Resolved,TMS / Chấm công / Điểm danh
+187,Chuyến trạng thái lead,Nguyễn Minh Hiếu,,High priority,Resolved,Lead / Thanh toán / Order (CRM)
+186,Hỗ trợ gỡ payment,Lê Đặng Hồng Ngọc,,High priority,Resolved,Lead / Thanh toán / Order (CRM)
+179,Không book được phòng event cho khách hàng thuê tại cơ sở,CS Quách Phạm Phương Thảo,,High priority,Resolved,Đặt phòng (Crystal)
+175,KHÔNG HỖ TRỢ ĐƯỢC MÀ ĐÃ ĐÓNG TICKET,Bùi Huy Trường,,High priority,Resolved,Khác
+173,BU HÀM NGHI - GỬI LẠI LINK HỢP ĐỒNG ECONTRACT ĐỂ PH KÝ BỔ SUNG,Nguyễn Thị Uyên,,High priority,Resolved,Hợp đồng điện tử (E-contract)
+165,LỖI ĐĂNG NHẬP HỆ THỐNG NỘI BỘ,Do Thu Trang,,High priority,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+152,"Lỗi phần mềm chấm công, đi đúng ca nhưng bị báo đi trễ.",Bạch Thùy Trang,,High priority,Resolved,TMS / Chấm công / Điểm danh
+150,chuyển đổi trạng thái Lead,Nguyễn Quốc Cường,,High priority,Resolved,Lead / Thanh toán / Order (CRM)
+135,Hỗ Confirmed giao dịch,Nguyễn Quốc Cường,,High priority,Resolved,Lead / Thanh toán / Order (CRM)
+125,Hỗ trợ gỡ payment,Lê Đặng Hồng Ngọc,,High priority,Resolved,Lead / Thanh toán / Order (CRM)
+87,Lỗi không tick điểm thưởng được,Bảo Bảo,,High priority,Resolved,Điểm thưởng / Đổi quà
+72,BU PXL I KHÔNG TẠO ĐƯỢC PHIẾU DROPOUT,BU Phan Xích Long,,High priority,Resolved,Phiếu Dropout
+63,Duyệt Tiền kiểm hợp đồng bị pending,Ngô Gia Huy,,High priority,Resolved,Hợp đồng điện tử (E-contract)
+54,MINDX PHẠM VĂN ĐỒNG | HỖ TRỢ ENROLL HỌC VIÊN VÀO LỚP,MINDX PHẠM VĂN ĐỒNG,,High priority,Resolved,Enroll / Xếp lớp học viên
+47,LỖI ENROLL,BU THỦ DẦU MỘT,,High priority,Resolved,Enroll / Xếp lớp học viên
+46,Nhờ team hỗ trợ chuyển trạng thái lead,Trương Thị Ngọc Hân,,High priority,Resolved,Lead / Thanh toán / Order (CRM)
+37,Không add được GV vào lớp,HÀ VŨ THANH HUYỀN,,High priority,Resolved,Enroll / Xếp lớp học viên
+05,Report thiếu dữ liệu cuộc gọi,Trần Thị Mai Anh,,High priority,Resolved,CRM gọi điện / SMS
+245,Trạng thái lead,Nguyễn Huỳnh Hạnh Dung,CRM,Medium priority,Resolved,Lead / Thanh toán / Order (CRM)
+176,LỖI HIỂN THỊ ĐIỂM COMPASS,BU THỦ DẦU MỘT,,Medium priority,Resolved,Trạng thái / Thông tin học viên
+124,Lỗi chấm công TMS,Nguyễn Huy Hoàng,,Medium priority,Resolved,TMS / Chấm công / Điểm danh
+99,BU QUẢNG NINH LỖI KHÔNG BOOK ĐƯỢC PHÒNG TRÊN CRYSTAL,Nguyễn Thị Hòa Vinh,,Medium priority,Resolved,Đặt phòng (Crystal)
+62,BU KHÔNG TẠO PHIẾU DROP OUT ĐƯỢC CHO HỌC VIÊN,Nguyễn Thị Hòa Vinh,,Medium priority,Resolved,Phiếu Dropout
+61,TDM-C4K-GA17,BU THỦ DẦU MỘT,,Medium priority,Resolved,Enroll / Xếp lớp học viên
+41,Nhờ hỗ trợ cấp lại mật khẩu LMS cho giáo viên Đinh Ngọc Tài,TE Lê Thế Khiêm,,Medium priority,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+39,HP- HỌC VIÊN KHÔNG CÓ SLOT HỌC PHẦN SỐ 7 : NEXTGEN,Triệu Thị Bích Ngà,,Medium priority,Resolved,Enroll / Xếp lớp học viên
+318,CRM không bấm gọi được,Võ Thị Hồng Phấn,Awaiting information; CRM; Check lỗi call,Low priority,Resolved,CRM gọi điện / SMS
+297,BU không tiến hành điểm danh được cho lớp HTLO-XART-MDB01,Thúy Vân,LMS,Low priority,Resolved,TMS / Chấm công / Điểm danh
+265,BU QUÊN MẬT KHẨU EMAIL TMS,Nguyễn Võ Minh Nhựt,,Low priority,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+259,BỔ SUNG EMAIL CÔNG VIỆC,Như Quỳnh,Awaiting information; kiểm tra thông tin tài khoản,Low priority,Resolved,"Cấp mới / chuyển tài khoản, email"
+253,BU KHÔNG ĐĂNG NHẬP VÀO TMS ĐƯỢC,Nguyễn Võ Minh Nhựt,,Low priority,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+246,LỖI TÌM LỚP ENROLL HỌC VIÊN VÀO LỚP HDT-JSB75(1:1),BU Hoàng Đạo Thúy,LMS,Low priority,Resolved,Enroll / Xếp lớp học viên
+243,LỖI ENROLL HỌC VIÊN VÀO LỚP HDT-JSB75(1:1),BU Hoàng Đạo Thúy,CRM; LMS,Low priority,Resolved,Enroll / Xếp lớp học viên
+235,[Tô Ký] - TMS lỗi không vào tạo bù công được,Thạch Thị Yến Trinh,TMS,Low priority,Resolved,TMS / Chấm công / Điểm danh
+233,[Tỉnh Nam 2] - [LỖI TMS TỪ NGÀY 31. KHÔNG HIỆN THÔNG TIN VÀ THAO TÁC ĐƯỢC TRÊN HỆ THỐNG],Nguyễn Trung Duy,,Low priority,Resolved,TMS / Chấm công / Điểm danh
+229,Hỗ trợ lấy lại file google drive,Triệu Thị Bích Ngà,Xspace,Low priority,Resolved,Khác
+221,REQUEST FIX ENROLLMENT - HỌC VIÊN BỊ ENROLL TRÙNG LỚP LBB-C4K-SI19,MindX Lũy Bán Bích,,Low priority,Resolved,Enroll / Xếp lớp học viên
+162,Fwd: LỖI ĐĂNG NHẬP VÀO HỆ THỐNG NỘI BỘ,support@mindx-help.freshdesk.com,,Low priority,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+161,Fwd: KHÔNG TẠO DC HỢP ĐỒNG CHO KHÁCH,support@mindx-help.freshdesk.com,E-contract,Low priority,Resolved,Hợp đồng điện tử (E-contract)
+159,Fwd: Xóa mã giảm giá do tính sai,support@mindx-help.freshdesk.com,,Low priority,Resolved,Lead / Thanh toán / Order (CRM)
+156,Fwd: Không add được phòng,support@mindx-help.freshdesk.com,,Low priority,Resolved,Đặt phòng (Crystal)
+155,Fwd: Hỗ trợ chỉnh lại giá hoá đơn cty Lê Gia,support@mindx-help.freshdesk.com,,Low priority,Resolved,Lead / Thanh toán / Order (CRM)
+145,Fwd: Không xem được hợp đồng học viên bảo trợ - Nguyễn Nhật Vinh,support@mindx-help.freshdesk.com,Bug,Low priority,Resolved,Hợp đồng điện tử (E-contract)
+143,Re: Không đăng nhập được CRM,support@mindx-help.freshdesk.com,,Low priority,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+141,Fwd: NPS | Hỗ trợ tài khoản Denise của HV |,support@mindx-help.freshdesk.com,,Low priority,Resolved,Không đăng nhập được / quên mật khẩu / bị khóa
+134,Nhờ ticket hỗ trợ xóa order trên crm,trần thị thảo vy,,Low priority,Resolved,Lead / Thanh toán / Order (CRM)
+101,LỖI HIỂN THỊ TÊN HV - TDM-C4K-PTA07,BU THỦ DẦU MỘT,,Low priority,Resolved,Trạng thái / Thông tin học viên
+42,Lấy lại hình ảnh Hợp đồng,Nguyễn Minh Hiếu,,Low priority,Resolved,Hợp đồng điện tử (E-contract)

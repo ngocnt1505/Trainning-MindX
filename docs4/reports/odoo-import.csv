@@ -1,0 +1,119 @@
+﻿name,partner_name,priority,stage_id,tag_ids,description
+MINDX ĐÀ NẴNG - HỖ TRỢ KIỂM TRA ĐỐI CHIẾU SỐ LƯỢNG ĐỔI QUÀ TRÊN DENISE,Lương Thị Nguyệt Hà,2,Mới,"week5-sample,grp-reward,E-learning",Ticket #325 trong week-5/data/sample.xlsx
+KHÔNG TẠO MÃ QR THANH TOÁN ĐƯỢC,Dương Thị Chúc Linh,2,Mới,"week5-sample,grp-lead-payment,CRM,Vấn đề thanh toán",Ticket #287 trong week-5/data/sample.xlsx
+SỐ LƯỢNG GIỮA 2 HỆ THỐNG ECOUNT VÀ DENISE KHÔNG THỐNG NHẤT ĐỂ HV đổi quà,Thúy Vân,0,Mới,"week5-sample,grp-reward,LMS,Điểm thưởng",Ticket #296 trong week-5/data/sample.xlsx
+NHỜ KẾ TOÁN HỦY CF GIAO DỊCH 1TR TRÊN LEAD L6X DO ADD 2 LẦN,Dương Thị Thu Huệ,0,Mới,"week5-sample,grp-lead-payment,CRM,Xóa payment",Ticket #278 trong week-5/data/sample.xlsx
+NHỜ KẾ TOÁN HỦY CONFIRM TRÊN LEAD L0B VÀ CONFIRM LẠI TRÊN LEAD L6B - 84974242997,Dương Thị Thu Huệ,0,Mới,"week5-sample,grp-lead-payment,CRM,Xóa payment",Ticket #249 trong week-5/data/sample.xlsx
+XIN CẤP LẠI TÀI KHOẢN ECOUNT,Nguyễn Hữu Thình,3,Đang thực hiện,"week5-sample,grp-account,User responded,Xspace",Ticket #308 trong week-5/data/sample.xlsx
+NHỜ TEAM TECH SỬA LẠI TÊN ĐÚNG TRONG PHẦN ENROLLMENT CỦA HỌC VIÊN,Huỳnh Ngọc Thanh,3,Đang thực hiện,"week5-sample,grp-student-info,CRM,Đổi tên HV trong order",Ticket #288 trong week-5/data/sample.xlsx
+NHỜ TEAM TECH SỬA LẠI TÊN ĐÚNG TRONG PHẦN ENROLLMENT CỦA HỌC VIÊN,Huỳnh Ngọc Thanh,3,Đang thực hiện,"week5-sample,grp-student-info,CRM,Đổi tên HV trong order",Ticket #286 trong week-5/data/sample.xlsx
+BU CẦN HỖ TRỢ FIX LỖI COMPASS HỌC VIÊN DIỄM QUỲNH,MindX Phan Van Tri,3,Đang thực hiện,"week5-sample,grp-student-info,Awaiting information,Compass,kiểm tra thông tin lớp học",Ticket #280 trong week-5/data/sample.xlsx
+CRM lại không gửi được tin nhắn,Võ Thị Hồng Phấn,3,Đang thực hiện,"week5-sample,grp-crm-call,CRM,User responded,sms",Ticket #275 trong week-5/data/sample.xlsx
+HỖ TRỢ CẤP LẠI MAIL CONTACT CỦA BU HẢI PHÒNG,Trần Thị Hồng Nhung,3,Đang thực hiện,"week5-sample,grp-account,Các vấn đề về mail",Ticket #129 trong week-5/data/sample.xlsx
+SỐ LƯỢNG GIỮA 2 HỆ THỐNG ECOUNT VÀ DENISE KHÔNG THỐNG NHẤT ĐỂ HV đổi quà,Thúy Vân,3,Đang thực hiện,"week5-sample,grp-reward,LMS,User responded,Điểm thưởng",Ticket #104 trong week-5/data/sample.xlsx
+BU PXL I KHÔNG TẠO ĐƯỢC PHIẾU DROPOUT,BU Phan Xích Long,2,Đang thực hiện,"week5-sample,grp-dropout,CRM",Ticket #336 trong week-5/data/sample.xlsx
+BU DĨ AN-NHỜ HỖ TRỢ FIX LỖI TẠO PHIẾU DROPOUT CHO HV,Phan Võ Quế An,2,Đang thực hiện,"week5-sample,grp-dropout,LMS",Ticket #335 trong week-5/data/sample.xlsx
+[Teaching | K12] Xuất dữ liệu L6 từ CRM,Trần Huy Vũ,2,Đang thực hiện,"week5-sample,grp-lead-payment,CRM,LMS",Ticket #324 trong week-5/data/sample.xlsx
+18+ HCM/ NHỜ TEAM KIỂM TRA LEAD HV Trần Uyên Thi 84906890372,Dương Thị Bảo Trân,2,Đang thực hiện,"week5-sample,grp-lead-payment,LMS,User responded,enroll HV",Ticket #315 trong week-5/data/sample.xlsx
+ADD HỌC VIÊN VÀO LỚP TC-WEB93,Ngô Thị Thu Trang,2,Đang thực hiện,"week5-sample,grp-enroll,LMS,User responded,enroll HV",Ticket #302 trong week-5/data/sample.xlsx
+LỖI ENROLL,BU THỦ DẦU MỘT,2,Đang thực hiện,"week5-sample,grp-enroll,CRM,LMS,User responded,enroll HV",Ticket #224 trong week-5/data/sample.xlsx
+HỖ TRỢ LINK BÀI TẬP CHO BÉ LỚP GA28,Mindx Phạm Ngũ Lão,2,Đang thực hiện,"week5-sample,grp-login,Denise,Tài khoản Denise - HV không đăng nhập được",Ticket #222 trong week-5/data/sample.xlsx
+BU DĨ AN-NHỜ HỖ TRỢ ĐIỀU CHỈNH GIỜ HỌC CỦA LỚP DA-ROB-ARMB17 (1:1),MindX Di An,2,Đang thực hiện,"week5-sample,grp-enroll,LMS,Điều chỉnh buổi học",Ticket #201 trong week-5/data/sample.xlsx
+Không đổi được trạng thái,Võ Thị Hồng Phấn,2,Đang thực hiện,"week5-sample,grp-lead-payment,CRM,Chuyển trạng thái lead",Ticket #140 trong week-5/data/sample.xlsx
+PNL HỖ TRỢ TÀI KHOẢN DENISE,Mindx Phạm Ngũ Lão,0,Đang thực hiện,"week5-sample,grp-login,Denise,Tài khoản Denise - HV không đăng nhập được",Ticket #294 trong week-5/data/sample.xlsx
+Hỗ trợ vấn đề import lead trên CRM,Lê Huyền Cẩm Tú,3,Đang thực hiện,"week5-sample,grp-lead-payment,Bug,CRM,assign lead",Ticket #75 trong week-5/data/sample.xlsx
+BU SONG HÀNH NHỜ TEAM TECH CHECK VÀ MỞ GIÚP BU SLOT ENROLL HỌC VIÊN VÀO LỚP,Huỳnh Ngọc Thanh,3,Đang thực hiện,"week5-sample,grp-enroll,LMS,enroll HV",Ticket #60 trong week-5/data/sample.xlsx
+FIX Oder Chuyển Nhượng,Nguyễn Văn Quốc Khánh,2,Đang thực hiện,"week5-sample,grp-lead-payment,CRM,fix giá",Ticket #153 trong week-5/data/sample.xlsx
+Fwd: BU QUẢNG NINH | LỖI CRYSTAL,support@mindx-help.freshdesk.com,0,Đang thực hiện,"week5-sample,grp-room,Bug,LMS",Ticket #158 trong week-5/data/sample.xlsx
+Fwd: Lỗi Khách hàng đã ký hợp đồng nhưng hệ thống không ghi nhận,support@mindx-help.freshdesk.com,0,Đang thực hiện,"week5-sample,grp-econtract,Bug,E-contract,Hợp đồng sai thông tin",Ticket #157 trong week-5/data/sample.xlsx
+Lead kế toán báo không Confirmed được,Nguyễn Quốc Cường,3,Đã xử lý,"week5-sample,grp-lead-payment,Awaiting information,Bug,Vấn đề thanh toán",Ticket #305 trong week-5/data/sample.xlsx
+BU cộng điểm cho HV nhưng điểm tổng vẫn không thay đổi,Thúy Vân,3,Đã xử lý,"week5-sample,grp-reward,LMS,Điểm thưởng",Ticket #295 trong week-5/data/sample.xlsx
+Có điểm danh nhưng bị uncheck,HÀ VŨ THANH HUYỀN,3,Đã xử lý,"week5-sample,grp-tms,Awaiting information,Bảng công giáo viên",Ticket #291 trong week-5/data/sample.xlsx
+KHÔNG TÌM RA LỚP ĐỂ ADD GV,HÀ VŨ THANH HUYỀN,3,Đã xử lý,"week5-sample,grp-enroll,LMS,kiểm tra thông tin lớp học",Ticket #290 trong week-5/data/sample.xlsx
+KHÔNG XÓA ĐƯỢC MAIL ĐÃ ĐIỀN Ở PHẦN FAMILY CỦA CRM HỌC VIÊN,Trần Thị Mai Linh,3,Đã xử lý,"week5-sample,grp-student-info,CRM,Các vấn đề về mail",Ticket #284 trong week-5/data/sample.xlsx
+EM CẦN SP CHUYỂN TÀI KHOẢN LMS/CRM TỪ STL SANG CSL Ạ,Hồ Hoàng Tường Vi,3,Đã xử lý,"week5-sample,grp-account,CRM,LMS",Ticket #276 trong week-5/data/sample.xlsx
+KHÔNG THỂ ENROLL HỌC VIÊN,Nguyễn Phạm Như Quỳnh,3,Đã xử lý,"week5-sample,grp-enroll,LMS",Ticket #274 trong week-5/data/sample.xlsx
+Lỗi trạng thái học viên,06 Nguyễn Hữu Thọ,3,Đã xử lý,"week5-sample,grp-student-info,LMS",Ticket #269 trong week-5/data/sample.xlsx
+KHÔNG THỂ ENROLL HỌC VIÊN,Nguyễn Phạm Như Quỳnh,3,Đã xử lý,"week5-sample,grp-enroll,CRM",Ticket #267 trong week-5/data/sample.xlsx
+CRM không bấm gọi được,Võ Thị Hồng Phấn,3,Đã xử lý,"week5-sample,grp-crm-call,CRM",Ticket #260 trong week-5/data/sample.xlsx
+"số tiền trên hợp đồng hiển thị sai so với thông tin soạn thảo, 19.188.000 là đúng",Đặng Thục Mỹ,3,Đã xử lý,"week5-sample,grp-econtract,CRM,E-contract",Ticket #254 trong week-5/data/sample.xlsx
+CẤP TÀI KHOẢN NHÂN SỰ I4137,Trần Mai Thi,3,Đã xử lý,"week5-sample,grp-account,CRM,LMS",Ticket #248 trong week-5/data/sample.xlsx
+Chuyển trạng thái đóng tiền của PH thành L6B,Nguyễn Thị Quỳnh,3,Đã xử lý,"week5-sample,grp-lead-payment,CRM",Ticket #247 trong week-5/data/sample.xlsx
+KHÔNG TRUY CẬP VÔ TMS ĐƯỢC,Hoàng Kim,3,Đã xử lý,"week5-sample,grp-login",Ticket #241 trong week-5/data/sample.xlsx
+TMS BỊ LỖI KHÔNG HIỆN THÔNG TIN,Cao Trương Ngân Hà,3,Đã xử lý,"week5-sample,grp-tms,TMS",Ticket #239 trong week-5/data/sample.xlsx
+CHUYỂN CRM CHO NHÂN SỰ ĐỔI CƠ SỞ,Trần Hồng Ngân,3,Đã xử lý,"week5-sample,grp-account,CRM",Ticket #237 trong week-5/data/sample.xlsx
+TMS mất dữ liệu,Khuất Thị Hà,3,Đã xử lý,"week5-sample,grp-tms,TMS",Ticket #236 trong week-5/data/sample.xlsx
+[Tỉnh Nam 2] - [LỖI TMS TỪ NGÀY 31. KHÔNG HIỆN THÔNG TIN VÀ THAO TÁC ĐƯỢC TRÊN HỆ THỐNG],Nguyễn Trung Duy,3,Đã xử lý,"week5-sample,grp-tms,TMS",Ticket #234 trong week-5/data/sample.xlsx
+Hệ thống TMS không hiển thị công,Nguyễn Thị Huệ,3,Đã xử lý,"week5-sample,grp-tms,TMS",Ticket #232 trong week-5/data/sample.xlsx
+CẤP MAIL OUTLOOK ĐỂ LÀM VIỆC NỘI BỘ,Nguyễn Ngọc Thảo Vy,3,Đã xử lý,"week5-sample,grp-account,Các vấn đề về mail",Ticket #230 trong week-5/data/sample.xlsx
+TMS không hiển thị công cần duyệt để duyệt công trước khi hết tháng,La Thuý Vân,3,Đã xử lý,"week5-sample,grp-tms,TMS",Ticket #228 trong week-5/data/sample.xlsx
+Lỗi Add payment,Nguyễn Trần Thị Bích Quỳnh,3,Đã xử lý,"week5-sample,grp-lead-payment,CRM",Ticket #226 trong week-5/data/sample.xlsx
+LEAD CRM ĐÃ ADD PATMENT VẪN NẰM Ở L5A,NGUYỄN PHẠM THÙY LINH,3,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #225 trong week-5/data/sample.xlsx
+KHÔNG THỂ COI CHẤM CÔNG,Nguyễn Phạm Như Quỳnh,3,Đã xử lý,"week5-sample,grp-tms",Ticket #218 trong week-5/data/sample.xlsx
+Lỗi TMS I4081 - Lỗi khi yêu cầu bù công,Trương Thị Ngọc Duyên,3,Đã xử lý,"week5-sample,grp-tms",Ticket #215 trong week-5/data/sample.xlsx
+hỗ trợ enroll học viên lớp TC-CIJS109,Nguyễn Phương Nga,3,Đã xử lý,"week5-sample,grp-enroll",Ticket #210 trong week-5/data/sample.xlsx
+TK-ROB-SEMII03,Phạm Thị Thanh Trúc,3,Đã xử lý,"week5-sample,grp-enroll",Ticket #209 trong week-5/data/sample.xlsx
+Nhờ team check giúp TMS,CS Bùi Lê Bảo Linh,3,Đã xử lý,"week5-sample,grp-tms",Ticket #206 trong week-5/data/sample.xlsx
+SALE,Trần Tú Nhi,3,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #189 trong week-5/data/sample.xlsx
+CẤP MAIL OUTLOOK ĐỂ LÀM VIỆC NỘI BỘ,Nguyễn Ngọc Thảo Vy,3,Đã xử lý,"week5-sample,grp-account,Các vấn đề về mail",Ticket #174 trong week-5/data/sample.xlsx
+CẤP LẠI MẬT KHẢU MAIL,tramlnp@mindx.com.vn,3,Đã xử lý,"week5-sample,grp-login,Các vấn đề về mail",Ticket #172 trong week-5/data/sample.xlsx
+PNL- TÀI KHOẢN ECOUNT KHÔNG VÀO ĐƯỢC,Mindx Phạm Ngũ Lão,2,Đã xử lý,"week5-sample,grp-login,Xspace",Ticket #331 trong week-5/data/sample.xlsx
+BU Tây Thạnh nhờ Team Tech kiểm tra và xóa bớt 1 học phần của học viên NGUYỄN THƯỜNG TUẤN KHOA-84903611433,Đặng Thị Huyền Trang,2,Đã xử lý,"week5-sample,grp-enroll,LMS",Ticket #268 trong week-5/data/sample.xlsx
+TÀI KHOẢN LỖI,Mindx Phạm Ngũ Lão,2,Đã xử lý,"week5-sample,grp-login,Denise,Tài khoản Denise - HV không đăng nhập được",Ticket #255 trong week-5/data/sample.xlsx
+tài khoản TMS không hiển thị công,Hoàng Văn Vũ,2,Đã xử lý,"week5-sample,grp-tms,TMS",Ticket #238 trong week-5/data/sample.xlsx
+Không hiện thông tin trong bảng chấm công,Nguyễn Quang Thành,2,Đã xử lý,"week5-sample,grp-tms,TMS",Ticket #231 trong week-5/data/sample.xlsx
+LỖI TMS,Đoàn Thị Hoa,2,Đã xử lý,"week5-sample,grp-tms,TMS",Ticket #227 trong week-5/data/sample.xlsx
+Tài khoản E Count bị khoá,MindX Bắc Ninh,2,Đã xử lý,"week5-sample,grp-login",Ticket #220 trong week-5/data/sample.xlsx
+NHỜ TEAM THÊM GIÚP BU HỌC VIÊN MAI THIÊN PHÚC-84938213066 VÀ HỌC VIÊN ĐINH QUANG PHÚ-84917101090 VÀO LỚP TT-KIND-ROB4A02,Đặng Thị Huyền Trang,2,Đã xử lý,"week5-sample,grp-enroll",Ticket #219 trong week-5/data/sample.xlsx
+Không điểm danh được cho giáo viên,Nguyễn Trung,2,Đã xử lý,"week5-sample,grp-tms",Ticket #211 trong week-5/data/sample.xlsx
+Run lại buổi demo,Phạm Thanh Nhàn,2,Đã xử lý,"week5-sample,grp-enroll",Ticket #207 trong week-5/data/sample.xlsx
+"upsale 4 tháng lên 24 tháng, chương trình ưu đãi ngày 29,30/12/2025",Đặng Thục Mỹ,2,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #203 trong week-5/data/sample.xlsx
+Lỗi phần mềm chấm công,Bạch Thùy Trang,2,Đã xử lý,"week5-sample,grp-tms",Ticket #194 trong week-5/data/sample.xlsx
+Chuyến trạng thái lead,Nguyễn Minh Hiếu,2,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #187 trong week-5/data/sample.xlsx
+Hỗ trợ gỡ payment,Lê Đặng Hồng Ngọc,2,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #186 trong week-5/data/sample.xlsx
+Không book được phòng event cho khách hàng thuê tại cơ sở,CS Quách Phạm Phương Thảo,2,Đã xử lý,"week5-sample,grp-room",Ticket #179 trong week-5/data/sample.xlsx
+KHÔNG HỖ TRỢ ĐƯỢC MÀ ĐÃ ĐÓNG TICKET,Bùi Huy Trường,2,Đã xử lý,"week5-sample,grp-other",Ticket #175 trong week-5/data/sample.xlsx
+BU HÀM NGHI - GỬI LẠI LINK HỢP ĐỒNG ECONTRACT ĐỂ PH KÝ BỔ SUNG,Nguyễn Thị Uyên,2,Đã xử lý,"week5-sample,grp-econtract",Ticket #173 trong week-5/data/sample.xlsx
+LỖI ĐĂNG NHẬP HỆ THỐNG NỘI BỘ,Do Thu Trang,2,Đã xử lý,"week5-sample,grp-login",Ticket #165 trong week-5/data/sample.xlsx
+"Lỗi phần mềm chấm công, đi đúng ca nhưng bị báo đi trễ.",Bạch Thùy Trang,2,Đã xử lý,"week5-sample,grp-tms",Ticket #152 trong week-5/data/sample.xlsx
+chuyển đổi trạng thái Lead,Nguyễn Quốc Cường,2,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #150 trong week-5/data/sample.xlsx
+Hỗ Confirmed giao dịch,Nguyễn Quốc Cường,2,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #135 trong week-5/data/sample.xlsx
+Hỗ trợ gỡ payment,Lê Đặng Hồng Ngọc,2,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #125 trong week-5/data/sample.xlsx
+Lỗi không tick điểm thưởng được,Bảo Bảo,2,Đã xử lý,"week5-sample,grp-reward",Ticket #87 trong week-5/data/sample.xlsx
+BU PXL I KHÔNG TẠO ĐƯỢC PHIẾU DROPOUT,BU Phan Xích Long,2,Đã xử lý,"week5-sample,grp-dropout",Ticket #72 trong week-5/data/sample.xlsx
+Duyệt Tiền kiểm hợp đồng bị pending,Ngô Gia Huy,2,Đã xử lý,"week5-sample,grp-econtract",Ticket #63 trong week-5/data/sample.xlsx
+MINDX PHẠM VĂN ĐỒNG | HỖ TRỢ ENROLL HỌC VIÊN VÀO LỚP,MINDX PHẠM VĂN ĐỒNG,2,Đã xử lý,"week5-sample,grp-enroll",Ticket #54 trong week-5/data/sample.xlsx
+LỖI ENROLL,BU THỦ DẦU MỘT,2,Đã xử lý,"week5-sample,grp-enroll",Ticket #47 trong week-5/data/sample.xlsx
+Nhờ team hỗ trợ chuyển trạng thái lead,Trương Thị Ngọc Hân,2,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #46 trong week-5/data/sample.xlsx
+Không add được GV vào lớp,HÀ VŨ THANH HUYỀN,2,Đã xử lý,"week5-sample,grp-enroll",Ticket #37 trong week-5/data/sample.xlsx
+Report thiếu dữ liệu cuộc gọi,Trần Thị Mai Anh,2,Đã xử lý,"week5-sample,grp-crm-call",Ticket #05 trong week-5/data/sample.xlsx
+Trạng thái lead,Nguyễn Huỳnh Hạnh Dung,1,Đã xử lý,"week5-sample,grp-lead-payment,CRM",Ticket #245 trong week-5/data/sample.xlsx
+LỖI HIỂN THỊ ĐIỂM COMPASS,BU THỦ DẦU MỘT,1,Đã xử lý,"week5-sample,grp-student-info",Ticket #176 trong week-5/data/sample.xlsx
+Lỗi chấm công TMS,Nguyễn Huy Hoàng,1,Đã xử lý,"week5-sample,grp-tms",Ticket #124 trong week-5/data/sample.xlsx
+BU QUẢNG NINH LỖI KHÔNG BOOK ĐƯỢC PHÒNG TRÊN CRYSTAL,Nguyễn Thị Hòa Vinh,1,Đã xử lý,"week5-sample,grp-room",Ticket #99 trong week-5/data/sample.xlsx
+BU KHÔNG TẠO PHIẾU DROP OUT ĐƯỢC CHO HỌC VIÊN,Nguyễn Thị Hòa Vinh,1,Đã xử lý,"week5-sample,grp-dropout",Ticket #62 trong week-5/data/sample.xlsx
+TDM-C4K-GA17,BU THỦ DẦU MỘT,1,Đã xử lý,"week5-sample,grp-enroll",Ticket #61 trong week-5/data/sample.xlsx
+Nhờ hỗ trợ cấp lại mật khẩu LMS cho giáo viên Đinh Ngọc Tài,TE Lê Thế Khiêm,1,Đã xử lý,"week5-sample,grp-login",Ticket #41 trong week-5/data/sample.xlsx
+HP- HỌC VIÊN KHÔNG CÓ SLOT HỌC PHẦN SỐ 7 : NEXTGEN,Triệu Thị Bích Ngà,1,Đã xử lý,"week5-sample,grp-enroll",Ticket #39 trong week-5/data/sample.xlsx
+CRM không bấm gọi được,Võ Thị Hồng Phấn,0,Đã xử lý,"week5-sample,grp-crm-call,Awaiting information,CRM,Check lỗi call",Ticket #318 trong week-5/data/sample.xlsx
+BU không tiến hành điểm danh được cho lớp HTLO-XART-MDB01,Thúy Vân,0,Đã xử lý,"week5-sample,grp-tms,LMS",Ticket #297 trong week-5/data/sample.xlsx
+BU QUÊN MẬT KHẨU EMAIL TMS,Nguyễn Võ Minh Nhựt,0,Đã xử lý,"week5-sample,grp-login",Ticket #265 trong week-5/data/sample.xlsx
+BỔ SUNG EMAIL CÔNG VIỆC,Như Quỳnh,0,Đã xử lý,"week5-sample,grp-account,Awaiting information,kiểm tra thông tin tài khoản",Ticket #259 trong week-5/data/sample.xlsx
+BU KHÔNG ĐĂNG NHẬP VÀO TMS ĐƯỢC,Nguyễn Võ Minh Nhựt,0,Đã xử lý,"week5-sample,grp-login",Ticket #253 trong week-5/data/sample.xlsx
+LỖI TÌM LỚP ENROLL HỌC VIÊN VÀO LỚP HDT-JSB75(1:1),BU Hoàng Đạo Thúy,0,Đã xử lý,"week5-sample,grp-enroll,LMS",Ticket #246 trong week-5/data/sample.xlsx
+LỖI ENROLL HỌC VIÊN VÀO LỚP HDT-JSB75(1:1),BU Hoàng Đạo Thúy,0,Đã xử lý,"week5-sample,grp-enroll,CRM,LMS",Ticket #243 trong week-5/data/sample.xlsx
+[Tô Ký] - TMS lỗi không vào tạo bù công được,Thạch Thị Yến Trinh,0,Đã xử lý,"week5-sample,grp-tms,TMS",Ticket #235 trong week-5/data/sample.xlsx
+[Tỉnh Nam 2] - [LỖI TMS TỪ NGÀY 31. KHÔNG HIỆN THÔNG TIN VÀ THAO TÁC ĐƯỢC TRÊN HỆ THỐNG],Nguyễn Trung Duy,0,Đã xử lý,"week5-sample,grp-tms",Ticket #233 trong week-5/data/sample.xlsx
+Hỗ trợ lấy lại file google drive,Triệu Thị Bích Ngà,0,Đã xử lý,"week5-sample,grp-other,Xspace",Ticket #229 trong week-5/data/sample.xlsx
+REQUEST FIX ENROLLMENT - HỌC VIÊN BỊ ENROLL TRÙNG LỚP LBB-C4K-SI19,MindX Lũy Bán Bích,0,Đã xử lý,"week5-sample,grp-enroll",Ticket #221 trong week-5/data/sample.xlsx
+Fwd: LỖI ĐĂNG NHẬP VÀO HỆ THỐNG NỘI BỘ,support@mindx-help.freshdesk.com,0,Đã xử lý,"week5-sample,grp-login",Ticket #162 trong week-5/data/sample.xlsx
+Fwd: KHÔNG TẠO DC HỢP ĐỒNG CHO KHÁCH,support@mindx-help.freshdesk.com,0,Đã xử lý,"week5-sample,grp-econtract,E-contract",Ticket #161 trong week-5/data/sample.xlsx
+Fwd: Xóa mã giảm giá do tính sai,support@mindx-help.freshdesk.com,0,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #159 trong week-5/data/sample.xlsx
+Fwd: Không add được phòng,support@mindx-help.freshdesk.com,0,Đã xử lý,"week5-sample,grp-room",Ticket #156 trong week-5/data/sample.xlsx
+Fwd: Hỗ trợ chỉnh lại giá hoá đơn cty Lê Gia,support@mindx-help.freshdesk.com,0,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #155 trong week-5/data/sample.xlsx
+Fwd: Không xem được hợp đồng học viên bảo trợ - Nguyễn Nhật Vinh,support@mindx-help.freshdesk.com,0,Đã xử lý,"week5-sample,grp-econtract,Bug",Ticket #145 trong week-5/data/sample.xlsx
+Re: Không đăng nhập được CRM,support@mindx-help.freshdesk.com,0,Đã xử lý,"week5-sample,grp-login",Ticket #143 trong week-5/data/sample.xlsx
+Fwd: NPS | Hỗ trợ tài khoản Denise của HV |,support@mindx-help.freshdesk.com,0,Đã xử lý,"week5-sample,grp-login",Ticket #141 trong week-5/data/sample.xlsx
+Nhờ ticket hỗ trợ xóa order trên crm,trần thị thảo vy,0,Đã xử lý,"week5-sample,grp-lead-payment",Ticket #134 trong week-5/data/sample.xlsx
+LỖI HIỂN THỊ TÊN HV - TDM-C4K-PTA07,BU THỦ DẦU MỘT,0,Đã xử lý,"week5-sample,grp-student-info",Ticket #101 trong week-5/data/sample.xlsx
+Lấy lại hình ảnh Hợp đồng,Nguyễn Minh Hiếu,0,Đã xử lý,"week5-sample,grp-econtract",Ticket #42 trong week-5/data/sample.xlsx

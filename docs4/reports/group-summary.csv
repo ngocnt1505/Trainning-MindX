@@ -1,0 +1,13 @@
+﻿group,tickets,percent,distinct_senders,urgent_or_high,not_resolved
+Lead / Thanh toán / Order (CRM),24,20%,19,18,8
+Enroll / Xếp lớp học viên,20,17%,14,15,4
+TMS / Chấm công / Điểm danh,19,16%,18,15,0
+Không đăng nhập được / quên mật khẩu / bị khóa,14,12%,8,7,2
+"Cấp mới / chuyển tài khoản, email",8,7%,7,7,2
+Trạng thái / Thông tin học viên,7,6%,5,5,3
+Hợp đồng điện tử (E-contract),7,6%,5,3,1
+Điểm thưởng / Đổi quà,5,4%,3,4,3
+CRM gọi điện / SMS,4,3%,2,3,1
+Phiếu Dropout,4,3%,3,3,2
+Đặt phòng (Crystal),4,3%,3,1,1
+Khác,2,2%,2,1,0
