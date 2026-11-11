@@ -1,0 +1,15 @@
+{
+  "employees": [
+    {"email": "nguyen.van.a@example.com", "name": "Nguyễn Văn A", "status": "active", "department": "Giáo viên - HN"},
+    {"email": "tran.thi.b@example.com", "name": "Trần Thị B", "status": "active", "department": "Giáo viên - HCM"},
+    {"email": "le.van.c@example.com", "name": "Lê Văn C", "status": "terminated", "department": "Giáo viên - HN", "terminated_on": "2026-09-30"},
+    {"email": "pham.thi.d@example.com", "name": "Phạm Thị D", "status": "active", "department": "BU Thủ Dầu Một"},
+    {"email": "hoang.van.e@example.com", "name": "Hoàng Văn E", "status": "active", "department": "Giáo viên - ĐN"}
+  ],
+  "lms_accounts": [
+    {"email": "nguyen.van.a@example.com", "status": "deactivated", "last_login": "2026-09-25", "deactivated_reason": "inactive_30_days"},
+    {"email": "tran.thi.b@example.com", "status": "active", "last_login": "2026-11-10"},
+    {"email": "le.van.c@example.com", "status": "deactivated", "last_login": "2026-09-28", "deactivated_reason": "inactive_30_days"},
+    {"email": "pham.thi.d@example.com", "status": "active", "last_login": "2026-11-09"}
+  ]
+}
