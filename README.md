@@ -41,6 +41,4 @@ python reports/classify_tickets.py                     # phân tích dữ liệu
 cd automation && python -m unittest -v                 # test login bot
 ```
 
-## Lịch sử
 
-Repo này trước đây là `ticket-manager-cli` (tuần 2–5, mỗi tuần một thư mục `docs*`); tuần 1 nằm ở repo riêng `ai-training-week1`. Ngày 12/11/2026 hai repo được gộp làm một và sắp xếp lại theo tuần. Lịch sử commit của cả hai repo vẫn được giữ (`git log --follow <file>` để xem lịch sử một file trước khi đổi chỗ).
