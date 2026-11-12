@@ -3,7 +3,7 @@ coverage/
 dist/
 tickets.json
 
-# Week 5 automation
-automation/.env
-automation/logs/
+# Week 5 automation (login bot)
+week-5-analysis-automation/automation/.env
+week-5-analysis-automation/automation/logs/
 __pycache__/
